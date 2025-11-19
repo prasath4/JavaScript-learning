@@ -1,12 +1,16 @@
 // Declaring different variables of different data types
 
-// Scope: Block-scoped ({ }).
+// Scope: Block-scoped ({ block content }).
 
 // Re-declaration: Not allowed in the same block.
 
 // Hoisting: Hoisted but not initialized (Temporal Dead Zone until declared).
 
 // Use case: When you need a variable that may change values.
+
+// aadhiPrasath  camelcase
+
+// variable variablename = value
 
 let firstName = 'Asabeneh'    // first name of a person
 let lastName = 'Yetayeh'      // last name of a person
@@ -49,3 +53,12 @@ let name = 'Asabeneh',     //name of a person
 var name = "Prasath";
 var name = "B";  // re-declaration allowed
 console.log(name); // "B"
+
+
+
+
+
+// what is varible?
+// variable is a container for storing data values.
+
+// In JavaScript, we use three keywords to declare variables: let, const and var. 

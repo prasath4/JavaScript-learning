@@ -1,6 +1,6 @@
 # 30 Days Of JavaScript
 
- <!--  <strong>Learn with Prasath B </strong> -->
+  <strong>Learn with Prasath B </strong>
 
 
 | # Day |                                                                       Topics                                                                        |
@@ -40,7 +40,7 @@
 
 
 <div>
-<small>Support the <strong>author</strong> to create more educational materials</small> <br />  
+<small>Support the <strong>author</strong> to create more educational materials</small> <br />
 </div>
 
 <div align="center">
@@ -118,7 +118,7 @@ JavaScript is used **_to add interactivity to websites, to develop mobile apps, 
 programming language for last ten years and is the most used programming language on
 GitHub.
 
-This challenge is easy to read, written in conversational English, engaging, motivating and at the same time, it is very demanding. You need to allocate much time to finish this challenge. If you are a visual learner, you may get the video lesson on <a href="https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw"> Washera</a> YouTube channel. Subscribe the channel, comment and ask questions on YouTube vides and be proactive, the author will eventually notice you. 
+This challenge is easy to read, written in conversational English, engaging, motivating and at the same time, it is very demanding. You need to allocate much time to finish this challenge. If you are a visual learner, you may get the video lesson on <a href="https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw"> Washera</a> YouTube channel. Subscribe the channel, comment and ask questions on YouTube vides and be proactive, the author will eventually notice you.
 
 The author likes to hear your opinion about the challenge, share the author by expressing your thoughts about the 30DaysOfJavaScript challenge. You can leave your testimonial on this [link](https://www.asabeneh.com/testimonials)
 
@@ -231,8 +231,8 @@ We can add comments to our code. Comments are very important to make code more r
 **Example: Single Line Comment**
 
 ```js
-// This is the first comment  
-// This is the second comment  
+// This is the first comment
+// This is the second comment
 // I am a single line comment
 ```
 
@@ -240,9 +240,9 @@ We can add comments to our code. Comments are very important to make code more r
 
 ```js
 /*
-This is a multiline comment  
- Multiline comments can take multiple lines  
- JavaScript is the language of the web  
+This is a multiline comment
+ Multiline comments can take multiple lines
+ JavaScript is the language of the web
  */
 ```
 
@@ -414,7 +414,7 @@ External scripts in the _body_:
     <title>30DaysOfJavaScript:External script</title>
   </head>
   <body>
-    <!-- JavaScript external link could be in the header or in the body --> 
+    <!-- JavaScript external link could be in the header or in the body -->
     <!-- Before the closing tag of the body is the recommended place to put the external JavaScript script -->
     <script src="introduction.js"></script>
   </body>
